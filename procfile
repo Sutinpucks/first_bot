@@ -1,1 +1,1 @@
-web: python botya.py
+web: python3 botya.py
